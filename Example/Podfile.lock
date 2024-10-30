@@ -1,0 +1,16 @@
+PODS:
+  - nvServiceExtSampleTest (0.1.0)
+
+DEPENDENCIES:
+  - nvServiceExtSampleTest (from `../`)
+
+EXTERNAL SOURCES:
+  nvServiceExtSampleTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  nvServiceExtSampleTest: 6529f0c50708b23e6f4262f1640b04f8746326eb
+
+PODFILE CHECKSUM: f8c463230475affa5d97f05c1c510a06b3489265
+
+COCOAPODS: 1.15.2

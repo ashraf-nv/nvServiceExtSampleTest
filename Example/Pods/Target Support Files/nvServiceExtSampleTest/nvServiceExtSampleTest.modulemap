@@ -1,0 +1,6 @@
+framework module nvServiceExtSampleTest {
+  umbrella header "nvServiceExtSampleTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

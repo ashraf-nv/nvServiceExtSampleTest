@@ -1,0 +1,6 @@
+framework module Pods_nvServiceExtSampleTest_Tests {
+  umbrella header "Pods-nvServiceExtSampleTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
