@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  nvServiceExtSampleTest is sample pod for testing purpose only
+  This is sample pod for testing purpose only.
                        DESC
   s.homepage         = 'https://github.com/ashraf-nv/nvServiceExtSampleTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
